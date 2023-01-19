@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek Jaikaran Yadav
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Data Analyst,Business Analyst,Creating Dashboard,Cleaning Data
+- 🌱 I’m currently learning Snowflake,PowerBI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (https://www.linkedin.com/in/abhishek-yadav-64a4b7235/)
 
